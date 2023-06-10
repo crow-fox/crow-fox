@@ -1,5 +1,5 @@
 # 自己紹介
-はじめまして、下地健人（@crow-fox）といいます。
+初めまして、下地健人（@crow-fox）と申します。
 
 主にフロントエンド（React, TypeScript, Next.js, Astro）の勉強をしています。
 
