@@ -1,7 +1,7 @@
 # 自己紹介
 はじめまして、コトカラス（@crow-fox）といいます。
 
-主にフロントエンド（React, TypeScript, Next.js, Astro）の勉強をしています。
+主にフロントエンド（React, TypeScript, Next.js, Remix, Astro）の勉強をしています。
 
 アクセシビリティに詳しくなりたい。
 
