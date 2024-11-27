@@ -5,7 +5,7 @@
 Web アプリケーション開発を学習していて、
 使用言語は HTML, CSS, JavaScript, TypeScript です。
 
-主に React, Next.js, Remix, Astro 辺りを触っています。
+主に React, Next.js, Remix, React Router, Astro 辺りを触っています。
 
 アクセシビリティに詳しくなりたい。
 
