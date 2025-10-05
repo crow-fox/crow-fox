@@ -1,11 +1,11 @@
 # 自己紹介
 
-はじめまして、コトカラス（@crow-fox）といいます。
+はじめまして、crow-foxといいます。
 
 Web アプリケーション開発を学習していて、
 使用言語は HTML, CSS, JavaScript, TypeScript です。
 
-主に React, Next.js, React Router, Astro 辺りを触っています。
+フロントエンド開発が好きです。
 
 アクセシビリティに詳しくなりたい。
 
